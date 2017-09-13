@@ -7,9 +7,7 @@ The Internet has brought together a group of chemists/programmers/informaticians
 * [Mailing_List] Ask a question, keep up to date, or get involved
 * [Blue_Obelisk_Blogs] Member's blogs
 * [Blue_Obelisk_Meetings] Come to a meeting
-* [Blue_Obelisk_Awards]
-
-Links to other resources of interest can be found [here]().
+* [Blue_Obelisk_Awards](awards.md)
 
 Publications
 ============
