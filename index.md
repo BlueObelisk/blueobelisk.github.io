@@ -3,10 +3,10 @@
 The Internet has brought together a group of chemists/programmers/informaticians who are driven by wanting to do things better, but are frustrated with the Closed systems that chemists currently have to work with. They share a belief in the concepts of [Open Data](opendata.md), Open Standards and Open Source (ODOSOS) (but not necessarily Open Access). And they express this in code, data, algorithms, specifications, tutorials, demonstrations, articles and anything that helps get the message across.
 
 * [Members](members.md) Who we are (and how to join)
-* [Activities] What we are doing
-* [Mailing_List] Ask a question, keep up to date, or get involved
-* [Blue_Obelisk_Blogs] Member's blogs
-* [Blue_Obelisk_Meetings] Come to a meeting
+* [Activities](activities.md) What we are doing
+* [Mailing List](mailinglist.md) Ask a question, keep up to date, or get involved
+* [Blue_Obelisk_Blogs](blogs.md) Member's blogs
+* [Blue_Obelisk_Meetings](meetings) Come to a meeting
 * [Blue Obelisk Awards](awards.md)
 
 Publications
