@@ -1,6 +1,6 @@
 The Blue Obelisk has developed and continues to develop the following resources for the Chemistry Community: 
 
-  * [Agenda]{agenda.md)
+  * [Agenda](agenda.md)
   * [WebServices](webservices.md)
   * [DataRepository](datarepository.md)
   * [AlgorithmDictionary] 
