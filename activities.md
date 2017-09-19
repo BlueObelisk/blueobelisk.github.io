@@ -1,8 +1,8 @@
 The Blue Obelisk has developed and continues to develop the following resources for the Chemistry Community: 
 
-  * [Agenda]
-  * [WebServices]
-  * [DataRepository] 
+  * [Agenda]{agenda.md)
+  * [WebServices](webservices.md)
+  * [DataRepository](datarepository.md)
   * [AlgorithmDictionary] 
   * [Open_Data_in_Chemistry] 
   * [Open_Standard_for_SMILES] 
