@@ -4,7 +4,7 @@ The Blue Obelisk has developed and continues to develop the following resources 
   * [WebServices](webservices.md)
   * [DataRepository](datarepository.md)
   * [AlgorithmDictionary](algodict.md)
-  * [Open_Data_in_Chemistry] 
+  * [Open_Data_in_Chemistry](opendata.md)
   * [Open_Standard_for_SMILES] 
   * [Discussions_on_Algorithms] 
   * [Using_Javascript_and_Greasemonkey_for_Chemistry] 
