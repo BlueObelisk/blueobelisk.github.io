@@ -5,8 +5,8 @@ The Blue Obelisk has developed and continues to develop the following resources 
   * [DataRepository](datarepository.md)
   * [AlgorithmDictionary](algodict.md)
   * [Open_Data_in_Chemistry](opendata.md)
-  * [Open_Standard_for_SMILES] 
-  * [Discussions_on_Algorithms] 
-  * [Using_Javascript_and_Greasemonkey_for_Chemistry] 
+  * [Open_Standard_for_SMILES](opensmiles.md)
+  * [Discussions_on_Algorithms](algodisc.md)
+  * [Using_Javascript_and_Greasemonkey_for_Chemistry](greasemonkey.md)
   * [Tutorials and How Tos](TutorialsAndHowTos) 
   * [Discussions arising from the ChemToolsMeeting March 08](ChemToolsMeet_March_08) 
