@@ -3,7 +3,7 @@ The Blue Obelisk has developed and continues to develop the following resources 
   * [Agenda](agenda.md)
   * [WebServices](webservices.md)
   * [DataRepository](datarepository.md)
-  * [AlgorithmDictionary] 
+  * [AlgorithmDictionary](algodict.md)
   * [Open_Data_in_Chemistry] 
   * [Open_Standard_for_SMILES] 
   * [Discussions_on_Algorithms] 
