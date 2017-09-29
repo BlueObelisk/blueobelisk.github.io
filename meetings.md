@@ -1,10 +1,8 @@
 To arrange to come along to a meeting, subscribe to the Blue Obelisk mailing list and reply to the meeting organiser. 
 
-[TOC]
-
 # 2012
 
-  * Meeting at the [Spring_ACS_Conference_in_San_Diego], March 2012 
+  * Meeting at the [Spring_ACS_Conference_in_San_Diego](meetings/sandiego2012.md), March 2012 
 
 # 2011
 
