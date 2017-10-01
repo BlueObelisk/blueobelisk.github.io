@@ -6,7 +6,7 @@ The Internet has brought together a group of chemists/programmers/informaticians
 * [Activities](activities.md) What we are doing
 * [Mailing List](mailinglist.md) Ask a question, keep up to date, or get involved
 * [Blue Obelisk Blogs](blogs.md) Member's blogs
-* [Blue Obelisk Meetings](meetings,md) Come to a meeting
+* [Blue Obelisk Meetings](meetings.md) Come to a meeting
 * [Blue Obelisk Awards](awards.md)
 
 Publications
