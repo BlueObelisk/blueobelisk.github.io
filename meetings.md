@@ -2,23 +2,23 @@ To arrange to come along to a meeting, subscribe to the Blue Obelisk mailing lis
 
 # 2012
 
-  * Meeting at the [Spring_ACS_Conference_in_San_Diego](meetings/sandiego2012.md), March 2012 
+  * Meeting at the [Spring ACS Conference in San Diego](meetings/sandiego2012.md), March 2012 
 
 # 2011
 
-  * Meeting at the [Fall_ACS_Conference_in_Denver](meetings/denver2011.md), August 2011 
-  * Meeting at the [5th_Meeting_on_U.S._Government_Chemical_Databases_and_Open_Chemistry](meetings/usgov.md), August 2011 
-  * Meeting at the Spring_ACS_Conference_in_Anaheim, Mar 2011 
+  * Meeting at the [Fall ACS Conference in Denver](meetings/denver2011.md), August 2011 
+  * Meeting at the [5th Meeting on U.S. Government Chemical Databases and Open Chemistry](meetings/usgov.md), August 2011 
+  * Meeting at the Spring ACS Conference in Anaheim, Mar 2011 
 
 # 2010
 
-  * Meeting at the Fall_ACS_Conference_in_Boston,_August_2010
-  * Meeting at the [Spring_ACS_Conference_in_San_Francisco], March 2010 
+  * Meeting at the Fall ACS Conference in Boston, August_2010
+  * Meeting at the [Spring ACS Conference in San Francisco](meetings/sanfran2010.md), March 2010 
 
 # 2009
 
-  * Meeting at the [Fall_ACS_Conference_in_Washington_D.C], August 2009 
-  * Meeting at the [Spring_ACS_Conference_in_Salt_Lake_City], March 2009 
+  * Meeting at the [Fall ACS Conference in Washington D.C](meetings/washington2009.md), August 2009 
+  * Meeting at the [Spring ACS Conference in Salt Lake City](meetings/saltlakecity2009.md), March 2009 
 
 # 2008
 
