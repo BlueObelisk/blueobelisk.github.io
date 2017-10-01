@@ -6,13 +6,13 @@ To arrange to come along to a meeting, subscribe to the Blue Obelisk mailing lis
 
 # 2011
 
-  * Meeting at the [Fall_ACS_Conference_in_Denver], August 2011 
-  * Meeting at the [5th_Meeting_on_U.S._Government_Chemical_Databases_and_Open_Chemistry], August 2011 
-  * Meeting at the [Spring_ACS_Conference_in_Anaheim], Mar 2011 
+  * Meeting at the [Fall_ACS_Conference_in_Denver](meetings/denver2011.md), August 2011 
+  * Meeting at the [5th_Meeting_on_U.S._Government_Chemical_Databases_and_Open_Chemistry](meetings/usgov.md), August 2011 
+  * Meeting at the Spring_ACS_Conference_in_Anaheim, Mar 2011 
 
 # 2010
 
-  * Meeting at the [Fall_ACS_Conference_in_Boston,_August_2010] 
+  * Meeting at the Fall_ACS_Conference_in_Boston,_August_2010
   * Meeting at the [Spring_ACS_Conference_in_San_Francisco], March 2010 
 
 # 2009
