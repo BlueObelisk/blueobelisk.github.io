@@ -16,4 +16,4 @@ For more information, see:
 
 * [The Blue Obelisk](http://downloads.sourceforge.net/cdk/cdknews2.2.pdf), CDK News, 2005, 2, 43-46,
 * [The Blue Obelisk - Interoperability in Chemical Informatics](http://dx.doi.org/10.1021/ci050400b), J. Chem. Inf. Model., 2006, 46, 991-998, and
-* [Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on](http://www.jcheminf.com/content/3/1/37), J. Cheminformatics, 2011, 3, 37.
+* [Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on](https://jcheminf.springeropen.com/articles/10.1186/1758-2946-3-37), J. Cheminformatics, 2011, 3, 37.
