@@ -40,4 +40,4 @@ An essential complement to a Standard is a toolkit to test conformance and the B
 
 ## Other
 
-  * [AlgorithmDictionary] 
+  * [AlgorithmDictionary](algodict.md)
