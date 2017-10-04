@@ -32,7 +32,7 @@ An essential complement to a Standard is a toolkit to test conformance and the B
 
 ### OpenSMILES
 
-  * Project: &lt;http://www.opensmiles.org&gt;
+  * Project: http://www.opensmiles.org
 
 ### W3C Standards
 
