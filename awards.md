@@ -90,22 +90,21 @@ Saulius Gražulis
 
 Blue Obelisk Awards handed out by Peter.
 
-Antony Williams
--------------------
-Awarded on 2014-07-14 in Cambridge, UK. See these pictures.
+## Antony Williams
 
-Andrew Lang
--------------------
-Awarded on 2014-07-14 in Cambridge, UK. See these pictures.
+Awarded on 2014-07-14 in Cambridge, UK. [See](https://twitter.com/egonwillighagen/status/488638711576690688) [these](https://twitter.com/10705013/status/488672553586937856) [pictures](https://twitter.com/petermurrayrust/status/488697836390076416).
 
-Matthew Todd
--------------------
-Awarded on 2014-07-14 in Cambridge, UK. See these pictures.
+## Andrew Lang
 
-Daniel Lowe
--------------------
-Awarded on 2014-07-14 in Cambridge, UK. See these pictures.
+Awarded on 2014-07-14 in Cambridge, UK. [See](https://twitter.com/egonwillighagen/status/488638711576690688) [these](https://twitter.com/10705013/status/488672553586937856) [pictures](https://twitter.com/petermurrayrust/status/488697836390076416).
 
+## Matthew Todd
+
+Awarded on 2014-07-14 in Cambridge, UK. [See](https://twitter.com/egonwillighagen/status/488638711576690688) [these](https://twitter.com/10705013/status/488672553586937856) [pictures](https://twitter.com/petermurrayrust/status/488697836390076416).
+
+## Daniel Lowe
+
+Awarded on 2014-07-14 in Cambridge, UK. [See](https://twitter.com/egonwillighagen/status/488638711576690688) [these](https://twitter.com/10705013/status/488672553586937856) [pictures](https://twitter.com/petermurrayrust/status/488697836390076416).
 Greg Landrum
 -------------------
 Awarded on 2016-05-18 in Hinxton, Uk. See
