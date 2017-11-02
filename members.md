@@ -4,7 +4,7 @@ In addition, there are an increasing number of Open Source chemistry projects wh
 
 * [Avogadro](http://avogadro.sourceforge.net/) - Advanced 3D Molecular Editor
 * [Bioclipse](http://bioclipse.net/)
-* [cclib](http://cclib.sf.net/)
+* [cclib](http://cclib.github.io/)
 * [Chemical MIME Data](http://chemical-mime.sf.net/)
 * [Chemistry Development Kit](https://cdk.github.io/) (CDK)
 * [cinfony](http://code.google.com/p/cinfony)
