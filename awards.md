@@ -56,15 +56,15 @@ Awarded on 2010-08-24 in Boston, USA.
 
 Dan Zaharevitz
 -------------------
-Awarded on 2011-01-17 in Cambridge, UK.
+[Awarded on 2011-01-17 in Cambridge, UK](https://blogs.ch.cam.ac.uk/pmr/2011/01/17/pmr-symposium-hackfest-and-blue-obelisks/).
 
 Henry Rzepa
 -------------------
-Awarded on 2011-01-17 in Cambridge, UK.
+[Awarded on 2011-01-17 in Cambridge, UK](https://blogs.ch.cam.ac.uk/pmr/2011/01/17/pmr-symposium-hackfest-and-blue-obelisks/).
 
 Sam Adams
 -------------------
-Awarded on 2011-01-17 in Cambridge, UK.
+[Awarded on 2011-01-17 in Cambridge, UK](https://blogs.ch.cam.ac.uk/pmr/2011/01/17/pmr-symposium-hackfest-and-blue-obelisks/).
 
 Jens Thomas
 -------------------
