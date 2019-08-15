@@ -2,19 +2,16 @@
 
 ## Blue Obelisk Data Repository (BODR)
 
-Another core Blue Obelisk project is the development of a [shared data repository](http://bodr.svn.sourceforge.net/viewvc/bodr/). This repository lists many important chemoinformatics data such as elemental properties, atomic radii, etc. including references to original literature. Software developers can use this repository on online webpages or in chemistry software for free. 
+Another core Blue Obelisk project is the development of a [shared data repository](https://github.com/BlueObelisk/bodr). This repository lists many important chemoinformatics data such as elemental properties, atomic radii, etc. including references to original literature. Software developers can use this repository on online webpages or in chemistry software for free. 
 
 ### Download
 
-The latest release can be downloaded from [SourceForge](http://sf.net/projects/bodr). 
+The latest release can be downloaded from [GitHub](https://github.com/BlueObelisk/bodr). 
 
-#### Ubuntu
+#### Ubuntu and Debian
 
-Ubuntu package are available from the [bodr package](http://packages.ubuntu.com/bodr) for feisty and gutsy. 
-
-#### Debian
-
-Debian package are available from the [bodr package](http://packages.debian.org/bodr) for testing and unstable. 
+Ubuntu package are available from the [bodr package](http://packages.ubuntu.com/bodr). 
+Debian package are available from the [bodr package](http://packages.debian.org/bodr). 
 
 ### Programs
 
@@ -36,7 +33,7 @@ These are the programs that use or will use the BODR data.
 
 ## Chemical Structure Repository
 
-A complementary project, called Chemical Structures, has been initiated in June 2006. It aims to provide a set of organic structures, which includes 3D coordinates, InChi code, molecular weight, melting point, etc. The last release (v2.2.0) contains over 570 structures. You can also browse the [svn repository](http://blueobelisk.svn.sourceforge.net/viewvc/blueobelisk/structures/trunk). 
+A complementary project, called Chemical Structures, has been initiated in June 2006. It aims to provide a set of organic structures, which includes 3D coordinates, InChI code, molecular weight, melting point, etc. The last release (v2.2.0) contains over 570 structures. You can also browse the [svn repository](http://blueobelisk.svn.sourceforge.net/viewvc/blueobelisk/structures/trunk). 
 
 ### Download
 
