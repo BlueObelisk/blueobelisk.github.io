@@ -9,7 +9,7 @@ Christoph Steinbeck
 -------------------
 Awarded in 2006.
 
-Geoff Hutchinson
+Geoffrey Hutchison
 -------------------
 Awarded in 2006.
 
