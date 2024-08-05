@@ -6,7 +6,7 @@ This page lists (in alphabetical order) blogs of Blue Obelisk members. The feeds
   * [Carsten Niehaus (Kalzium)](http://www.livejournal.com/users/cniehaus/)
   * [Christoph Steinbeck (SteinBlog)](http://wiki.cubic.uni-koeln.de/blog/index.php)
   * [CML (run by petermr)](http://wwmm.ch.cam.ac.uk/blogs/cml)
-  * [Egon Willighagen (Chem-bla-ics)](http://chem-bla-ics.blogspot.com/)
+  * [Egon Willighagen (Chem-bla-ics)](https://chem-bla-ics.linkedchemistry.info/)
   * [Ernst-Georg Schmid](http://theplateisbad.blogspot.com)
   * [Geoff Hutchison (it's a puzzle)](http://geoffhutchison.net/blog/categories/blue-obelisk/)
   * [Jerome Pansanel](http://pansanel.blogspot.com)
